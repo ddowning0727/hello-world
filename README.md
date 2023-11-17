@@ -1,2 +1,2 @@
 # hello-world
-Brit was late.
+Sample Repository.
